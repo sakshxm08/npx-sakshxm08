@@ -1,7 +1,7 @@
 {
   "name": "sakshxm08",
   "version": "1.0.0",
-  "description": "A personal card for Anmol Pratap Singh (@anmol098)",
+  "description": "A personal card for Saksham Gambhir (@sakshxm08)",
   "main": "card.js",
   "bin": {
     "sakshxm08": "./card.js"
